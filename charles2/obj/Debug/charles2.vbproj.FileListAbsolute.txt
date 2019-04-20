@@ -1,0 +1,12 @@
+C:\Users\enoch\Desktop\charles2\charles2\bin\Debug\charles2.exe.config
+C:\Users\enoch\Desktop\charles2\charles2\bin\Debug\charles2.exe
+C:\Users\enoch\Desktop\charles2\charles2\bin\Debug\charles2.pdb
+C:\Users\enoch\Desktop\charles2\charles2\bin\Debug\charles2.xml
+C:\Users\enoch\Desktop\charles2\charles2\obj\Debug\charles2.vbprojAssemblyReference.cache
+C:\Users\enoch\Desktop\charles2\charles2\obj\Debug\charles2.Form1.resources
+C:\Users\enoch\Desktop\charles2\charles2\obj\Debug\charles2.Resources.resources
+C:\Users\enoch\Desktop\charles2\charles2\obj\Debug\charles2.vbproj.GenerateResource.cache
+C:\Users\enoch\Desktop\charles2\charles2\obj\Debug\charles2.vbproj.CoreCompileInputs.cache
+C:\Users\enoch\Desktop\charles2\charles2\obj\Debug\charles2.exe
+C:\Users\enoch\Desktop\charles2\charles2\obj\Debug\charles2.xml
+C:\Users\enoch\Desktop\charles2\charles2\obj\Debug\charles2.pdb
